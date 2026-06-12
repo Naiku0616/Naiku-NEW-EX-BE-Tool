@@ -19,7 +19,7 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/你的用户名/bilirss.git
+   git clone https://github.com/Naiku0616/Naiku-NEW-EX-BE-Tool
    ```
 2. 打开 Chrome/Edge 浏览器，进入扩展管理页面：
    - Chrome：`chrome://extensions`
